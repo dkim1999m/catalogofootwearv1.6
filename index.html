@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dmusso Masai — Catálogo</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+
+<header>
+  <div class="container topbar">
+    <div class="brand">
+      <div class="logo">DM</div>
+      <div>
+        <div class="title">Dmusso Masai</div>
+        <div class="subtitle">Catálogo público listo para compartir y vender por WhatsApp</div>
+      </div>
+    </div>
+
+    <div class="search" role="search">
+      <input id="q" type="search" placeholder="¿Qué buscas?" autocomplete="off" />
+      <span class="icon" aria-hidden="true">🔎</span>
+    </div>
+
+    <div class="toolbar">
+      <button class="btn btn--ghost" type="button" id="home">Inicio</button>
+      <button class="btn btn--ghost" type="button" id="reset">Reset</button>
+        <a class="btn btn--primary" href="https://wa.me/51927137867?text=Hola,%20quiero%20informaci%C3%B3n%20del%20cat%C3%A1logo%20de%20calzado." target="_blank" rel="noopener" title="WhatsApp">WhatsApp</a>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="poster" aria-label="Poster principal">
+    <div class="posterTop">
+      <div class="posterText">
+        <h1 id="posterTitle">Catálogo general</h1>
+        <p id="posterSub">Explora modelos por marca, talla y categoría.</p>
+      </div>
+
+      <div class="brandTabs" id="brandTabs" aria-label="Marcas"></div>
+      </div>
+
+    <div class="posterSlide" id="posterSlide"></div>
+
+    <button class="posterNav posterPrev" type="button" id="posterPrev" aria-label="Anterior">‹</button>
+    <button class="posterNav posterNext" type="button" id="posterNext" aria-label="Siguiente">›</button>
+  </section>
+
+  <div class="filters filters5">
+    <div>
+      <select id="brand"></select>
+    </div>
+
+    <div>
+      <select id="cat"></select>
+    </div>
+
+    <div>
+      <select id="size"></select>
+    </div>
+
+    <div>
+      <select id="sort">
+        <option value="relevance">Ordenar: Relevancia</option>
+        <option value="priceAsc">Precio: Menor a mayor</option>
+        <option value="priceDesc">Precio: Mayor a menor</option>
+        <option value="newest">Novedades primero</option>
+        <option value="discount">Mayor descuento</option>
+      </select>
+    </div>
+
+    <div>
+      <button class="btn btn--primary" type="button" id="apply">Aplicar</button>
+    </div>
+  </div>
+
+  <div class="grid" id="grid" aria-live="polite"></div>
+</main>
+
+<div class="modal" id="modal" aria-hidden="true" role="dialog" aria-label="Detalle de producto">
+  <div class="overlay" data-close="1"></div>
+  <div class="panel" role="document">
+    <button class="close" data-close="1" aria-label="Cerrar">✕</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<a class="fab" id="fab" href="#" target="_blank" rel="noopener">WhatsApp</a>
+
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

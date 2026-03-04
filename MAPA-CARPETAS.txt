@@ -1,0 +1,26 @@
+MAPA DE CARPETAS (PRODUCTOS)
+
+- Caterpillar | Botas Cat Hombre Elude WP P724341 Marrón | P724341  -> assets/images/products/caterpillar/P724341/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 02 (editar nombre real) | P70002  -> assets/images/products/caterpillar/P70002/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 03 (editar nombre real) | P70003  -> assets/images/products/caterpillar/P70003/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 04 (editar nombre real) | P70004  -> assets/images/products/caterpillar/P70004/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 05 (editar nombre real) | P70005  -> assets/images/products/caterpillar/P70005/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 06 (editar nombre real) | P70006  -> assets/images/products/caterpillar/P70006/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 07 (editar nombre real) | P70007  -> assets/images/products/caterpillar/P70007/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 08 (editar nombre real) | P70008  -> assets/images/products/caterpillar/P70008/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 09 (editar nombre real) | P70009  -> assets/images/products/caterpillar/P70009/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 10 (editar nombre real) | P70010  -> assets/images/products/caterpillar/P70010/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 11 (editar nombre real) | P70011  -> assets/images/products/caterpillar/P70011/ (1.jpg,2.jpg,3.jpg)
+- Caterpillar | Caterpillar Modelo 12 (editar nombre real) | P70012  -> assets/images/products/caterpillar/P70012/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 13 (editar nombre real) | C70013  -> assets/images/products/columbia/C70013/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 14 (editar nombre real) | C70014  -> assets/images/products/columbia/C70014/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 15 (editar nombre real) | C70015  -> assets/images/products/columbia/C70015/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 16 (editar nombre real) | C70016  -> assets/images/products/columbia/C70016/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 17 (editar nombre real) | C70017  -> assets/images/products/columbia/C70017/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 18 (editar nombre real) | C70018  -> assets/images/products/columbia/C70018/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 19 (editar nombre real) | C70019  -> assets/images/products/columbia/C70019/ (1.jpg,2.jpg,3.jpg)
+- Columbia | Columbia Modelo 20 (editar nombre real) | C70020  -> assets/images/products/columbia/C70020/ (1.jpg,2.jpg,3.jpg)
+
+FASE 2 / V1:
+- src/data/customers.json
+- admin dashboard con clientes + pedidos + stock
