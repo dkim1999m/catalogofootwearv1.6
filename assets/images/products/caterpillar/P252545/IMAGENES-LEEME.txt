@@ -1,0 +1,12 @@
+Producto: Caterpillar - Sire
+SKU: P252545
+
+Imágenes esperadas:
+1.jpg
+2.jpg
+3.jpg
+
+Portada catálogo (coverSlot): 1
+
+Stock por talla:
+40:5,41:3,42:5,43:5,44:5,45:5,40.5:5,41.5:5,42.5:5,43.5:5,44.5:1

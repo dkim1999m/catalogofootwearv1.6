@@ -1,0 +1,15 @@
+Producto: Caterpillar - Caterpillar Modelo 02 (editar nombre real)
+SKU: P70002
+
+Coloca EXACTAMENTE 3 imágenes en esta carpeta con estos nombres:
+  1.jpg
+  2.jpg
+  3.jpg
+
+Recomendación:
+- 1.jpg = vista principal (3/4 frontal)
+- 2.jpg = lateral / detalle
+- 3.jpg = suela / posterior
+
+Nota:
+- Si falta alguna imagen, el sistema mostrará un placeholder (no se rompe).

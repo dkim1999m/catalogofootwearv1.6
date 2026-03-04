@@ -1,0 +1,40 @@
+{
+  "All": [
+    {
+      "src": "assets/images/posters/general/poster-1.png",
+      "fit": "contain",
+      "x": 23,
+      "y": 80,
+      "bg": "#ffffff"
+    },
+    {
+      "src": "assets/images/posters/general/poster-2.png",
+      "fit": "contain",
+      "x": 38,
+      "y": 27,
+      "bg": "#ffffff"
+    },
+    {
+      "src": "assets/images/posters/general/poster-3.jpg",
+      "fit": "contain",
+      "x": 43,
+      "y": 50,
+      "bg": "#ffffff"
+    }
+  ],
+  "Caterpillar": [
+    "assets/images/posters/caterpillar/poster-1.png",
+    "assets/images/posters/caterpillar/poster-2.jpg",
+    "assets/images/posters/caterpillar/poster-3.png"
+  ],
+  "Columbia": [
+    "",
+    "",
+    ""
+  ],
+  "Merrel": [
+    "",
+    "",
+    ""
+  ]
+}

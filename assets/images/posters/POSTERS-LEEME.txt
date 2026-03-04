@@ -1,0 +1,6 @@
+Coloca tus posters aquí con estos nombres:
+  poster-1.jpg
+  poster-2.jpg
+  poster-3.jpg
+
+Estos SOLO cambian el poster (no afectan los productos).

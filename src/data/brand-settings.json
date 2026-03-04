@@ -1,0 +1,34 @@
+{
+  "All": {
+    "bg": "#eef6fb",
+    "accent": "#16a34a",
+    "accent2": "#38bdf8",
+    "wash": "rgba(2,6,23,.04)",
+    "title": "Catálogo general",
+    "effect": "bubbles"
+  },
+  "Caterpillar": {
+    "bg": "#fff8e7",
+    "accent": "#f4b400",
+    "accent2": "#ffd54f",
+    "wash": "rgba(244,180,0,.09)",
+    "title": "Catálogo Caterpillar",
+    "effect": "sparks"
+  },
+  "Columbia": {
+    "bg": "#eef8ff",
+    "accent": "#38bdf8",
+    "accent2": "#7dd3fc",
+    "wash": "rgba(56,189,248,.09)",
+    "title": "Catálogo Columbia",
+    "effect": "rain"
+  },
+  "Merrel": {
+    "bg": "#e8d7ca",
+    "accent": "#ede750",
+    "accent2": "#fb6060",
+    "wash": "rgba(2,6,23,.04)",
+    "title": "Catálogo Merrel",
+    "effect": "rain-thunder"
+  }
+}
